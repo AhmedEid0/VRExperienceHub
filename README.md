@@ -2,7 +2,7 @@
 
 ## Overview
 
-VRExperienceHub is a versatile Virtual Reality (VR) project developed using Unity. This project aims to showcase various scenes including business, entertainment, and education, all centralized within an art gallery hub. The user can interact with different scenes by navigating through the gallery.
+VRExperienceHub is a versatile Virtual Reality (VR) project developed using Unity. This project aims to showcase various scenes including business, entertainment, and education, all centralized within an art gallery hub. The user can interact with different scenes by navigating through the gallery. This project was developed as a graduation project.
 
 ## Features
 
