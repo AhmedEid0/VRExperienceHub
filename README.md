@@ -13,14 +13,20 @@ VRExperienceHub is a versatile Virtual Reality (VR) project developed using Unit
 
 ## Installation and Setup
 
-**1. Clone the repository:**
+**1. Clone the repository:***
    ```bash
    git clone https://github.com/AhmedEid0/VRExperienceHub.git
+   ```
 **2. Open the project in Unity:**
 Open Unity Hub.
 Click on the "Add" button.
 Select the cloned project folder.
 
-**Play the project:""
+**3. Play the project:**
 Open Unity.
 Click on the "Play" button to start the VRExperienceHub.
+
+## Usage:
+- Navigate through the art gallery to access different scenes.
+- Use VR controllers or a mouse to interact with the environment.
+- Return to the art gallery by holding the joystick or mouse button.
