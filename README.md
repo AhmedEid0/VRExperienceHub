@@ -13,7 +13,7 @@ VRExperienceHub is a versatile Virtual Reality (VR) project developed using Unit
 
 ## Installation and Setup
 
-**1. Clone the repository:***
+**1. Clone the repository:**
    ```bash
    git clone https://github.com/AhmedEid0/VRExperienceHub.git
    ```
